@@ -43,9 +43,7 @@ To get a local copy of the project up and running, follow these steps:
 
 4. Open the app in your browser at `http://localhost:3000`
 
-## Screenshot
 
-![image](https://github.com/AWESOME04/notes-app/assets/102630199/0ae7c592-12d6-46fe-bd0d-057886709cb6)
 
   
 ## File Structure
@@ -59,10 +57,4 @@ To get a local copy of the project up and running, follow these steps:
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## Acknowledgments
 
-- [React](https://reactjs.org/)
-- [react-mde](https://github.com/andrerpena/react-mde)
-- [showdown](https://github.com/showdownjs/showdown)
-- [react-split](https://github.com/nathancahill/split/tree/master/packages/react-split)
-- [nanoid](https://github.com/ai/nanoid)
